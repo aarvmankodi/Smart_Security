@@ -1,0 +1,1 @@
+This is the folder where photos of a person will be entered
