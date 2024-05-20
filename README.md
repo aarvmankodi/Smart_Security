@@ -7,7 +7,12 @@ Download link : https://drive.google.com/drive/folders/1XFvc5MljpUVSEzDY_pdzKIKS
 
 Add this modek to the root directory of the project
 
-Run the code and install any dependencies necessary 
+Run the code and install any dependencies necessary <br>
 (Tensorflow required python version 3.11)
 
+The trained model's files and data will be stored in the 'datas' folder <br>
+
+The de folder includes 3 folders for 1 person's photoes each.<br>
+
+(Code to capture new images to store in these folders is given at end of charm.ipynb)
 
